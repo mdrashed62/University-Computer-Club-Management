@@ -65,7 +65,7 @@ const users = [
     phone: "01303433342",
     email: "mdrashedbiswas83@gmail.com",
     expertise:
-      "JavaScript, React.Js, Next.Js, Node.Js, Express.Js, MongoDB, No-SQL, Context Api, Rest Api, JWT, HTML, CSS, Tailwind Css, Daisy-UI, Web Development, C Programming, (Learning: C++, Python)",
+      "MERN-Stack, JavaScript, React.Js, Next.Js, Node.Js, Express.Js, MongoDB, No-SQL, Context Api, Rest Api, JWT, HTML, CSS, Tailwind Css, Daisy-UI, Web Development, C Programming, (Learning: C++, Python)",
     github: "https://github.com/mdrashed62",
     linkedin: "https://www.linkedin.com/in/rashed83",
     image: "https://i.postimg.cc/QtgYPjBN/Rashed.jpg",
